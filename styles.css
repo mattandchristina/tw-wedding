@@ -121,7 +121,7 @@ body, html {
     font-family: 'Homemade Apple', serif;
     font-weight: 400;
     font-style: normal;
-    color: #027d42;
+    color: #ece0c9;
     text-align: left;
     align-self: flex-start;
     font-size: clamp(0.9rem, 2.5vw, 1.5rem); /* Smaller font size range */
