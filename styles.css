@@ -138,6 +138,9 @@ body, html {
     align-self: flex-start;
     font-size: clamp(0.9rem, 2.5vw, 1rem); /* Smaller font size range */
     text-transform: none; /* Ensures no text transformation to uppercase */
+    line-height: 1.2; /* Add this line or adjust value as needed */
+    margin-top: 0.2rem;   /* smaller top margin */
+    margin-bottom: 0.2rem; /* smaller bottom margin */
 }
 
 /* Radio Canada text */
