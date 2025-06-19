@@ -182,6 +182,8 @@ body, html {
     .overlay-text.radio-right,
     .overlay-text.apple-right {
         font-size: clamp(0.8rem, 3vw, 1.2rem); /* Adjusted font size */
+        margin-top: 0.2rem;   /* smaller top margin */
+        margin-bottom: 0.2rem; /* smaller bottom margin */
     }
 }
 
